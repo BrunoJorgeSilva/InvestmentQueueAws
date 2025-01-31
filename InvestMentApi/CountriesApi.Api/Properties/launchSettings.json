@@ -6,8 +6,8 @@
       "applicationUrl": "http://localhost:5078",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
-        "URLCOUNTRIESPUBLICAPI": "https://countries-api-abhishek.vercel.app/countries",
-        "CONNECTION_STRING": "Server=localhost;Database=WorldWideCountries;Integrated Security=True;TrustServerCertificate=True;"
+         
+        "CONNECTION_STRING": "yourConection"
       },
       "dotnetRunMessages": true
     },
@@ -17,8 +17,7 @@
       "applicationUrl": "https://localhost:7299",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
-        "URLCOUNTRIESPUBLICAPI": "https://countries-api-abhishek.vercel.app/countries",
-        "CONNECTION_STRING": "Server=localhost;Database=WorldWideCountries;Integrated Security=True;TrustServerCertificate=True;"
+        "CONNECTION_STRING": "yourConection"
       },
       "dotnetRunMessages": true
     },
@@ -27,8 +26,7 @@
       "launchBrowser": true,
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
-        "URLCOUNTRIESPUBLICAPI": "https://countries-api-abhishek.vercel.app/countries",
-        "CONNECTION_STRING": "Server=localhost;Database=WorldWideCountries;Integrated Security=True;TrustServerCertificate=True;"
+        "CONNECTION_STRING": "yourConection"
       }
     }
   },
