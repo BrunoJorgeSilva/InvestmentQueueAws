@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Testes Tecnicos\GenialInvestimentos\InvestMentApi\CountriesApi.Application\bin\Debug\net9.0\InvestmentAPI.Application.deps.json
+C:\Users\DELL\Desktop\Testes Tecnicos\GenialInvestimentos\InvestMentApi\CountriesApi.Application\bin\Debug\net9.0\InvestmentAPI.Application.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\GenialInvestimentos\InvestMentApi\CountriesApi.Application\bin\Debug\net9.0\InvestmentAPI.Application.pdb
+C:\Users\DELL\Desktop\Testes Tecnicos\GenialInvestimentos\InvestMentApi\CountriesApi.Application\bin\Debug\net9.0\InvestmentAPI.Domain.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\GenialInvestimentos\InvestMentApi\CountriesApi.Application\bin\Debug\net9.0\InvestmentAPI.Domain.pdb
+C:\Users\DELL\Desktop\Testes Tecnicos\GenialInvestimentos\InvestMentApi\CountriesApi.Application\obj\Debug\net9.0\InvestmentAPI.Application.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Testes Tecnicos\GenialInvestimentos\InvestMentApi\CountriesApi.Application\obj\Debug\net9.0\InvestmentAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Testes Tecnicos\GenialInvestimentos\InvestMentApi\CountriesApi.Application\obj\Debug\net9.0\InvestmentAPI.Application.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Testes Tecnicos\GenialInvestimentos\InvestMentApi\CountriesApi.Application\obj\Debug\net9.0\InvestmentAPI.Application.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Testes Tecnicos\GenialInvestimentos\InvestMentApi\CountriesApi.Application\obj\Debug\net9.0\InvestmentAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Testes Tecnicos\GenialInvestimentos\InvestMentApi\CountriesApi.Application\obj\Debug\net9.0\Investme.F79A4258.Up2Date
+C:\Users\DELL\Desktop\Testes Tecnicos\GenialInvestimentos\InvestMentApi\CountriesApi.Application\obj\Debug\net9.0\InvestmentAPI.Application.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\GenialInvestimentos\InvestMentApi\CountriesApi.Application\obj\Debug\net9.0\refint\InvestmentAPI.Application.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\GenialInvestimentos\InvestMentApi\CountriesApi.Application\obj\Debug\net9.0\InvestmentAPI.Application.pdb
+C:\Users\DELL\Desktop\Testes Tecnicos\GenialInvestimentos\InvestMentApi\CountriesApi.Application\obj\Debug\net9.0\ref\InvestmentAPI.Application.dll

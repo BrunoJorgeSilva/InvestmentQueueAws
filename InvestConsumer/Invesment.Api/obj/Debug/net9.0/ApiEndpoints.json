@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "InvesmentsApi.Api.Controllers.InvestmentController",
+    "Method": "UpdateAllInvesments",
+    "RelativePath": "api/Investment/Invest",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "investment",
+        "Type": "CountriesApi.Domain.ResponseObjects.DTOs.InvestmentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

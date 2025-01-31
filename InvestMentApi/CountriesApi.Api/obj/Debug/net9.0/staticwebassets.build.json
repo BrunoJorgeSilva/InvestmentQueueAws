@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "rHWcNZgyuhPWKDVDksVD8GhBkrzZkam9l5HVdIXbvVg=",
+  "Source": "InvestmentAPI.Api",
+  "BasePath": "_content/InvestmentAPI.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
